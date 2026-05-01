@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 1625" role="img" aria-label="Heptad emblem" class="heptad-emblem">
+  <style>
+    .heptad-emblem { color: #000000; }
+    .heptad-emblem__mark { fill: currentColor; }
+  </style>
+  <g class="heptad-emblem__mark">
+    <path d="M 16 16 L 59 202 L 70 273 L 79 312 L 89 391 L 104 407 L 126 438 L 125 443 L 105 446 L 97 444 L 97 454 L 118 634 L 143 931 L 157 1159 L 159 1162 L 160 1178 L 159 1207 L 162 1233 L 172 1436 L 179 1523 L 183 1608 L 185 1608 L 190 1548 L 190 1519 L 192 1514 L 205 1254 L 216 1085 L 218 1079 L 221 1008 L 223 1005 L 226 937 L 233 878 L 243 722 L 249 689 L 249 666 L 259 560 L 267 515 L 280 402 L 298 296 L 300 294 L 311 231 L 331 143 L 358 38 L 346 49 L 298 107 L 297 125 L 288 130 L 278 131 L 259 154 L 229 309 L 205 357 L 192 548 L 189 571 L 183 572 L 174 487 L 166 361 L 144 321 L 114 154 L 79 107 L 24 24 Z"/>
+  </g>
+</svg>
